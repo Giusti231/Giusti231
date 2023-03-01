@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: giusti231qmc@gmail.com
 - ⚡ Fun fact: In career transition.
 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height=90/> 
+          
