@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working like high school chemistry teacher.
 - 🌱 I’m currently learning JAVA.
-- 📫 How to reach me: giusti231qmc@gmail.com
 - ⚡ Fun fact: In career transition.
 
 
